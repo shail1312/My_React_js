@@ -9,6 +9,7 @@
   "author": "shailesh",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.16.1",
     "express": "^4.15.2",
     "react": "^0.14.9",
     "react-dom": "^0.14.9",
